@@ -1,0 +1,41 @@
+= Discord Bot Project
+:revnumber: v1.0
+:revdate: 11.11.2022
+:revremark: First draft
+
+:author: Ryan M. Howell
+:email: rmhowell@protonmail.com
+
+:toc:
+:toc-title: Table of Contents
+
+:source-highliter: rouge
+
+== About
+In this project, I'm going to make some Discord bots. The first of which will be
+3L0-M3, which if you couldn't tell, is not a very friendly bot.
+
+[%collapsible]
+.The Bots
+====
+|===
+| Bot Name | Purpose
+
+| [red]#3L0-M3#
+| [red]#Insult Bot#
+
+|[green]#Column 1, row 2#
+|[green]#Column 2, row 2#
+
+|[blue]#Column 1, row 3#
+|[blue]#Column 2, row 3#
+
+
+|[purple]#Column 1, row 4#
+|[purple]#Column 2, row 4#
+|===
+====
+
+=== M
+
+
