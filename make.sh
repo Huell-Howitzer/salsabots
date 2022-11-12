@@ -1,0 +1,1 @@
+asciidoctor -a source-highlighter=rouge -a stylesheet=custom.css -a rouge-style=pastie main.adoc
