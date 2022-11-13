@@ -36,6 +36,6 @@ In this project, I'm going to make some Discord bots. The first of which will be
 |===
 ====
 
-=== M
+=== Current Capabilities
 
 
