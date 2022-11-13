@@ -1,0 +1,6 @@
+[submodule "source/cryptocopy"]
+	path = source/cryptocopy
+	url = https://github.com/Edmain1/CryptoCo-py.git
+[submodule "cryptocopy"]
+	path = source/cryptocopy
+	url = https://github.com/Edmain1/CryptoCo-py.git
