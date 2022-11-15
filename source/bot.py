@@ -45,5 +45,34 @@ async def btc(ctx):
 
     await ctx.send(f"Current price: ${zz}")
 
+@bot.command( name = 'zoltar', help = 'Ask Zoltar a question about the future and be enlightened' )
+async def zoltar( ctx ) :
+    answers = [
+        "It is certain",
+        "My reply is no",
+        "You may rely on it",
+        "Outlook good",
+        "You shall not know the answer before it happens",
+        "I would say... yes!",
+        "The answers you seek are where you least want to look.",
+        "It is possible, although not very likely.",
+        "I can only advise that you do not make any assumptions.",
+        "Better luck next time kid",
+        "The world seems to be on your shoulders. Smile, and let it go",
+        "I was told it is unlikely",
+        "Only you can control your destiny.",
+        "Absolutely not",
+        "The spirit world has not decided.",
+        "Does the pope shit in the woods?",
+        "Yes! that is almost as certain as rob ending up in the drunk tank.",
+        "Does Abel keep a thick bitch?",
+        "You will almost certainly be disappointed in the outcome.",
+        "A resounding yes",
+        "You are looking in the wrong place.",
+        "Perhaps in another life."
+    ]
+
+    response = random.choice( answers )
+    await ctx.send( response )
 
 bot.run(TOKEN)
